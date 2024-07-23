@@ -1,0 +1,483 @@
+source,target,weight
+Automated Podcast Project,Agents,1
+Base models,Apple,2
+Base models,Artificial Intelligence,3
+Bitcoin Value Proposition,Agents,1
+Bitcoin,BTC Layer 3,1
+Bitcoin,Bitcoin Technical Overview,1
+Blockchain,Agentic Metaverse for Global Creatives,1
+Blockchain,Agentic Mycelia,1
+Blockchain,Agents,2
+Blockchain,Artificial Intelligence,1
+Blockchain,Bitcoin As Money,1
+Blockchain,Bitcoin Technical Overview,1
+Blockchain,Bitcoin Value Proposition,2
+Blockchain,Bitcoin,14.1
+Calculating Empires,Artificial Intelligence,1
+Cashu,Bitcoin,3
+ChatGPT,Blender,3.2
+Coding support,ChatGPT,4
+Comfy UI for Fashion and Brands,Apple,0.2
+ComfyUI,AnimateDiff,1
+ComfyUI,Apple,2
+ComfyUI,Artificial Intelligence,1
+ComfyUI,ChatGPT,3
+Comparison of GPT4 and Gemini Ultra,ChatGPT,13
+Competition in AI,AI Companies,1
+Competition in AI,Apple,2
+Competition in AI,ChatGPT,2
+Conspiracies,AI Companies,1
+Conspiracies,Agents,2
+Conspiracies,Artificial Intelligence,1
+Conspiracies,Bitcoin,7.2
+Conspiracies,California AI bill,0.1
+Convergence,Agents,2
+Convergence,Artificial Intelligence,1
+Convergence,Bitcoin,3
+Convergence,Blockchain,3
+Courses and Training,Artificial Intelligence,1.1
+Courses and Training,ChatGPT,1.1
+Death of the Internet,Agents,4
+Death of the Internet,Artificial Intelligence,1
+Death of the Internet,Blockchain,0.1
+Death of the Internet,ChatGPT,1
+Decentralised Web,Agents,2
+Decentralised Web,Apple,1.1
+Decentralised Web,Bitcoin,20.4
+Decentralised Web,Blockchain,6.3
+Deepfakes and fraudulent content,Agents,1
+Definitions and frameworks for Metaverse,Agents,3
+Definitions and frameworks for Metaverse,Apple,6.1
+Definitions and frameworks for Metaverse,Bitcoin,2
+Definitions and frameworks for Metaverse,Blockchain,1
+Definitions and frameworks for Metaverse,Convergence,2
+Diagrams as Code,Agents,11
+Diagrams as Code,Bitcoin,6
+Diagrams as Code,Blockchain,4
+Diagrams as Code,Cashu,1
+Digital Asset Risks,Bitcoin ETF,1
+Digital Asset Risks,Bitcoin,67.5
+Digital Asset Risks,Blockchain,3
+Digital Asset Risks,Convergence,1
+Digital Objects,Bitcoin,34.3
+Digital Objects,Blockchain,22.5
+Digital Objects,Digital Asset Risks,1
+Distributed Identity,Agents,1
+Distributed Identity,Bitcoin,23
+Distributed Identity,Blockchain,2
+Distributed Identity,Digital Objects,1
+Education,ChatGPT,3
+Energy and Power,Bitcoin,60.3
+Energy and Power,Blockchain,3
+Ethereum,Bitcoin,5.1
+Ethereum,Blockchain,3.1
+Gemini,Deepmind,0.1
+Gemini,Education,0.1
+Geopolitical hot takes,Education,9
+Global Inequality,Artificial Intelligence,1
+Global Inequality,Blockchain,2
+Global Inequality,Education,2
+Hardware and Edge,Apple,6.1
+Hardware and Edge,Artificial Intelligence,1
+Hardware and Edge,ChatGPT,4
+"Humans, Avatars , Character",ComfyUI,0.1
+"Humans, Avatars , Character",GANs,1.1
+Hyper personalisation,ChatGPT,1
+IPAdapter,Base models,1
+IPAdapter,Diffusion Models,3
+Introduction to me,Bitcoin,2
+Introduction to me,Convergence,2
+Introduction to me,Education,1
+Jailbreaking,Bitcoin,1
+Knowhere,ChatGPT,0.1
+Knowledge Graphing,ChatGPT,0.1
+Large language models,Artificial Intelligence,2.1
+Large language models,Base models,1
+Large language models,ChatGPT,16.3
+Large language models,Deep Learning,13.2
+Large language models,Diffusion Models,0.1
+Large language models,Digital Objects,1
+Layoff tracker and threatened roles,Agents,1
+Layoff tracker and threatened roles,Education,4.1
+Leopold Aschenbrenner,AI Companies,2
+Leopold Aschenbrenner,Artificial Intelligence,1
+Leopold Aschenbrenner,Energy and Power,1
+Leopold Aschenbrenner,Hardware and Edge,1
+Lightning and Similar L2,Bitcoin,22.1
+Lightning and Similar L2,Cashu,5
+Llama,Large language models,1
+Machine Learning,Agents,2
+Machine Learning,Gemini,2
+Machine Learning,Llama,2
+Medical AI,Agents,7
+Medical AI,Convergence,1
+Medical AI,Deepmind,2.1
+Medical AI,Gemini,0.1
+Medical AI,Landscape,1
+Medical AI,Large language models,2
+Metaverse Ontology,Agentic Mycelia,1
+Metaverse Ontology,Agents,14
+Metaverse Ontology,Anthropic Claude,1
+Metaverse Ontology,Bitcoin,16
+Metaverse Ontology,Blockchain,7
+Metaverse Ontology,Cashu,8
+Metaverse Ontology,ChatGPT,1
+Metaverse Ontology,Convergence,2
+Metaverse Ontology,Gemini,1
+Metaverse Ontology,Knowledge Graphing,1
+Metaverse Ontology,Large language models,1
+Metaverse Ontology,Lightning and Similar L2,1
+Metaverse and Spatial Risks,Machine Learning,3
+Metaverse and Telecollaboration,Agents,5
+Metaverse and Telecollaboration,Apple,3
+Metaverse and Telecollaboration,Bitcoin,1
+Metaverse and Telecollaboration,Blockchain,8.2
+Metaverse and Telecollaboration,Convergence,3
+Metaverse and Telecollaboration,Digital Objects,4
+Metaverse and Telecollaboration,Landscape,2.1
+Metaverse and Telecollaboration,Large language models,3
+Metaverse and Telecollaboration,Llama,2
+Metaverse and Telecollaboration,Machine Learning,3
+Metaverse as Markets,Bitcoin,1
+Metaverse as Markets,Blockchain,2
+Metaverse as Markets,Education,3
+Microsoft CoPilot,Artificial Intelligence,1
+Microsoft CoPilot,ChatGPT,2.1
+Microsoft CoPilot,Deep Learning,1
+Microsoft Work Trends Impact 2024,Artificial Intelligence,1
+Mixed reality,Apple,13
+Mixed reality,Artificial Intelligence,2
+Mixed reality,Bitcoin,1
+Mixed reality,Blender,5.1
+Mixed reality,Blockchain,15
+Mixed reality,ChatGPT,1
+Mixed reality,Convergence,3
+Mixed reality,Depth Estimation,3
+Mixed reality,Diffusion Models,4
+Mixed reality,Education,4
+Mixed reality,Ethereum,1
+Mixed reality,"Humans, Avatars , Character",0.1
+Mixed reality,Landscape,1.1
+Mixed reality,Large language models,1
+Mixed reality,Machine Learning,4
+Mixed reality,Metaverse and Telecollaboration,1
+Model Optimisation and Performance,Large language models,0.2
+Model Optimisation and Performance,Machine Learning,3
+Money,Apple,9
+Money,Bitcoin,18.5
+Money,Blockchain,7.1
+Money,Convergence,1
+Money,Ethereum,5
+Money,Gemini,1
+Money,Gold,8
+Money,Landscape,3
+Multi Agent RAG scrapbook,Diagrams as Code,1
+Multi Agent RAG scrapbook,Large language models,1
+Music and audio,Deepmind,0.2
+Music and audio,Microsoft CoPilot,1
+NVIDIA Omniverse,Blender,7
+Norbert Wiener,Artificial Intelligence,1
+Octave Multi Model Laboratory,Convergence,1
+Octave Multi Model Laboratory,Digital Objects,1
+Octave Multi Model Laboratory,Education,1
+Octave Multi Model Laboratory,Hardware and Edge,1
+Octave Multi Model Laboratory,Machine Learning,1
+Octave Multi Model Laboratory,Mixed reality,3.1
+Octave Multi Model Laboratory,Money,1
+Octave Multi Model Laboratory,National Industrial Centre for Virtual Environments,1
+Open Generative AI tools,ComfyUI,1
+Open Generative AI tools,Large language models,1
+Open Generative AI tools,Llama,1
+Overview of Machine Learning Techniques,Artificial Intelligence,1
+Overview of Machine Learning Techniques,Deep Learning,3
+Overview of Machine Learning Techniques,Diffusion Models,2
+Overview of Machine Learning Techniques,GANs,1
+Overview of Machine Learning Techniques,Large language models,2
+Overview of Machine Learning Techniques,Machine Learning,2
+Parametric,NVIDIA Omniverse,1
+"Politics, Law, Privacy",Artificial Intelligence,4.1
+"Politics, Law, Privacy",Bitcoin,2
+"Politics, Law, Privacy",Blockchain,2.1
+"Politics, Law, Privacy",ChatGPT,0.1
+"Politics, Law, Privacy",Distributed Identity,1
+"Politics, Law, Privacy",EU AI Act,2
+"Politics, Law, Privacy",Education,3
+"Politics, Law, Privacy",Landscape,3
+"Politics, Law, Privacy",Large language models,1
+"Politics, Law, Privacy",Money,1
+Product Design,Agents,32
+Product Design,Apple,1
+Product Design,Bitcoin,19
+Product Design,Blockchain,6
+Product Design,Cashu,1
+Product Design,ChatGPT,3
+Product Design,Digital Objects,5
+Product Design,Education,5
+Product Design,Gemini,1
+Product Design,Knowhere,3
+Product Design,Landscape,6
+Product Design,Large language models,2
+Product Design,Machine Learning,9
+Product Design,Mixed reality,8
+Product Design,Money,8
+Product Design,NVIDIA Omniverse,1
+Product and Risk Management,Education,1
+Product and Risk Management,Landscape,1
+Product and Risk Management,Machine Learning,1
+Product and Risk Management,"Politics, Law, Privacy",1
+Product and Risk Management,Product Design,1
+Prompt Engineering,AI Video,0.1
+Prompt Engineering,ChatGPT,6.5
+Prompt Engineering,ComfyUI,0.1
+Prompt Engineering,Diagrams as Code,1
+Prompt Engineering,Gold,3
+Prompt Engineering,Large language models,1
+Prompt Engineering,Llama,0.4
+Prompt Engineering,OpenAI,0.6
+Proprietary AI Video,AI Video,2
+Proprietary AI Video,Deepmind,1
+Proprietary AI Video,OpenAI,3.2
+Proprietary Image Generation,ChatGPT,4.1
+Proprietary Image Generation,Landscape,1
+Proprietary Image Generation,OpenAI,1
+Proprietary Large Language Models,AI Companies,1
+Proprietary Large Language Models,Agents,2.1
+Proprietary Large Language Models,Artificial Intelligence,1
+Proprietary Large Language Models,ChatGPT,1.2
+Proprietary Large Language Models,Gemini,2.1
+Proprietary Large Language Models,Landscape,1
+Proprietary Large Language Models,Large language models,2
+Proprietary Large Language Models,Microsoft CoPilot,1
+Proprietary Large Language Models,OpenAI,6.3
+Proprietary Large Language Models,Prompt Engineering,1.1
+Proprietary Large Language Models,Proprietary Image Generation,1
+Proprietary Video VP & 3D,AI Video,2.2
+Proprietary Video VP & 3D,Metaverse and Telecollaboration,1
+Proprietary Video VP & 3D,NVIDIA Omniverse,1
+Proprietary Video VP & 3D,Open Generative AI tools,1
+RAG,Agents,1
+RAG,ChatGPT,2.1
+RAG,Evaluation and leaderboards,0.1
+RAG,Large language models,1.1
+RAG,Llama,1
+RAG,OpenAI,0.3
+RGB,Bitcoin,4
+RGB,Blockchain,2
+Recent Projects,Artificial Intelligence,0.1
+Recent Projects,Bitcoin,0.1
+Recent Projects,Hardware and Edge,1
+Recent Projects,RGB,0.1
+Revision List,Agents,1
+Revision List,Deep Learning,2
+Revision List,Machine Learning,6
+Revision List,Prompt Engineering,1
+Revision List,RAG,1
+Robin Hanson,Artificial Intelligence,1
+Robin Hanson,Gemini,2
+Robin Hanson,Lead Poisoning Hypothesis,1
+Robotics,ChatGPT,1
+SLAM,RGB,0.1
+Safety and alignment,AI Risks,1
+Safety and alignment,Artificial Intelligence,2
+Safety and alignment,Education,1
+Safety and alignment,Jailbreaking,1
+Safety and alignment,Large language models,0.1
+Safety and alignment,Machine Learning,1
+Safety and alignment,OpenAI,5.2
+Sam Hammond,AI Risks,3
+Sam Hammond,Deep Learning,1
+Sam Hammond,Education,1
+Sam Hammond,Landscape,4
+Sam Hammond,OpenAI,1
+Scene Capture and Reconstruction,Apple,0.2
+Scene Capture and Reconstruction,Blender,0.2
+Scene Capture and Reconstruction,Gaussian splatting and Similar,2
+Scene Capture and Reconstruction,SLAM,2.5
+Segmentation and Identification,Depth Estimation,0.1
+Segmentation and Identification,Inpainting,0.1
+Segmentation and Identification,Large language models,1
+Segmentation and Identification,Llama,2
+Semantic Web,Agents,1
+Semantic Web,Apple,1
+Semantic Web,Bitcoin,1
+Semantic Web,Blockchain,3
+Semantic Web,Large language models,3
+Semantic Web,RAG,6
+Social contract and jobs,AI Adoption,1
+Social contract and jobs,Agents,1
+Social contract and jobs,Artificial Intelligence,4
+Social contract and jobs,ChatGPT,3
+Social contract and jobs,Deep Learning,1
+Social contract and jobs,Education,5.1
+Social contract and jobs,Landscape,3
+Social contract and jobs,Layoff tracker and threatened roles,2
+Social contract and jobs,Llama,1
+Social contract and jobs,Mixed reality,1
+Social contract and jobs,Money,1
+Social contract and jobs,OpenAI,1
+Social contract and jobs,Robotics,1
+Social contract and jobs,Singularity,1
+Soon-Next-Later (AI futurology),Agents,5
+Soon-Next-Later (AI futurology),Death of the Internet,2
+Soon-Next-Later (AI futurology),Diagrams as Code,1
+Soon-Next-Later (AI futurology),Distributed Identity,1
+Soon-Next-Later (AI futurology),Education,9
+Soon-Next-Later (AI futurology),Metaverse and Telecollaboration,1
+Soon-Next-Later (AI futurology),Mixed reality,1
+Soon-Next-Later (AI futurology),Money,1
+Soon-Next-Later (AI futurology),OpenAI,1
+Soon-Next-Later (AI futurology),"Politics, Law, Privacy",1
+Soon-Next-Later (AI futurology),Sam Hammond,1
+Soon-Next-Later (AI futurology),Social contract and jobs,1
+Spatial Computing,Robotics,1
+Speech and voice,AI Companies,1
+Speech and voice,Agents,1
+Speech and voice,Artificial Intelligence,1
+Speech and voice,ChatGPT,6
+Speech and voice,Large language models,2
+Speech and voice,NVIDIA Omniverse,1
+Speech and voice,OpenAI,2.3
+Speech and voice,Product Design,1
+Speech and voice,Social contract and jobs,1
+Stable Coins,Bitcoin,3
+Stable Coins,Blockchain,6
+Stable Coins,Ethereum,5
+Stable Coins,Gemini,0.3
+Stable Coins,Money,6
+Stable Diffusion,AI Companies,1
+Stable Diffusion,AnimateDiff,0.2
+Stable Diffusion,Artificial Intelligence,1
+Stable Diffusion,Blender,0.3
+Stable Diffusion,ChatGPT,0.1
+Stable Diffusion,ComfyUI,2.3
+Stable Diffusion,Diffusion Models,1.5
+Stable Diffusion,Inpainting,3.1
+Stable Diffusion,Landscape,1
+Stable Diffusion,Machine Learning,1.1
+Stable Diffusion,OpenAI,0.1
+Stable Diffusion,Prompt Engineering,1.3
+State Space and Other Approaches,Gemini,2
+State Space and Other Approaches,Robotics,1
+State of the art in AI,Agents,1
+State of the art in AI,Artificial Intelligence,0.1
+State of the art in AI,Death of the Internet,1
+State of the art in AI,Education,2.1
+State of the art in AI,Hardware and Edge,1
+State of the art in AI,Large language models,1
+State of the art in AI,Money,3
+State of the art in AI,OpenAI,1.4
+State of the art in AI,"Politics, Law, Privacy",1
+State of the art in AI,Proprietary Large Language Models,1
+State of the art in AI,Social contract and jobs,2
+Suggested Reading Order,AI Adoption,1
+Suggested Reading Order,Agents,1
+Suggested Reading Order,Artificial Intelligence,1
+Suggested Reading Order,BTC Layer 3,1
+Suggested Reading Order,Bitcoin As Money,1
+Suggested Reading Order,Bitcoin,2
+Suggested Reading Order,Blockchain,1
+Suggested Reading Order,Convergence,1
+Suggested Reading Order,Decentralised Web,1
+Suggested Reading Order,Definitions and frameworks for Metaverse,1
+Suggested Reading Order,Digital Asset Risks,1
+Suggested Reading Order,Digital Objects,3
+Suggested Reading Order,Distributed Identity,1
+Suggested Reading Order,Ethereum,1
+Suggested Reading Order,Introduction to me,1
+Suggested Reading Order,Large language models,1
+Suggested Reading Order,Lightning and Similar L2,1
+Suggested Reading Order,Machine Learning,1
+Suggested Reading Order,Metaverse and Spatial Risks,1
+Suggested Reading Order,Metaverse and Telecollaboration,1
+Suggested Reading Order,Money,3
+Suggested Reading Order,National Industrial Centre for Virtual Environments,1
+Suggested Reading Order,Octave Multi Model Laboratory,1
+Suggested Reading Order,Open Generative AI tools,1
+Suggested Reading Order,Overview of Machine Learning Techniques,1
+Suggested Reading Order,"Politics, Law, Privacy",1
+Suggested Reading Order,Proprietary Image Generation,1
+Suggested Reading Order,Proprietary Large Language Models,1
+Suggested Reading Order,Proprietary Video VP & 3D,1
+Suggested Reading Order,RGB,1
+Suggested Reading Order,Semantic Web,1
+Suggested Reading Order,Spatial Computing,1
+Suggested Reading Order,State of the art in AI,1
+Surveillance,Agents,1
+Surveillance,Anthropic Claude,1
+Surveillance,Artificial Intelligence,1
+Surveillance,Bitcoin,7
+Surveillance,ChatGPT,1
+Surveillance,Landscape,1
+Surveillance,Money,1
+Surveillance,OpenAI,1.3
+Text to 3D and 4D,Blender,3.3
+Text to 3D and 4D,ComfyUI,2.2
+Text to 3D and 4D,Diffusion Models,1
+Text to 3D and 4D,OpenAI,0.1
+Text to 3D and 4D,Stable Diffusion,3
+Tim Reutermann,Bitcoin,2
+Tim Reutermann,Blockchain,2
+Time Series Forecasting,Llama,0.2
+Tokenization,Blockchain,1
+Tokenization,Money,1
+Training and fine tuning,Large language models,2
+Training and fine tuning,RAG,2
+Training and fine tuning,Safety and alignment,1
+Training and fine tuning,Semantic Web,1
+Transformers,OpenAI,0.1
+Trust and Safety,Agents,1
+Trust and Safety,Conspiracies,1
+Trust and Safety,Facebook Meta,1
+Trust and Safety,Global Inequality,1
+Trust and Safety,Landscape,1
+Trust and Safety,Large language models,1
+Trust and Safety,Llama,1
+Trust and Safety,Machine Learning,1
+Trust and Safety,Money,1
+Trust and Safety,NVIDIA Omniverse,1
+Upscaling,ComfyUI,2.8
+Upscaling,Education,0.2
+Upscaling,Stable Diffusion,1
+Virtual Production,Mixed reality,1
+Vision Pro,Apple,3
+Vision Pro,Money,1
+Visionflow,Landscape,1
+Visionflow,Machine Learning,2
+Visionflow,Robotics,4
+Visionflow,Virtual Production,11
+artificial superintelligence,OpenAI,0.2
+contents,Convergence,1
+contents,Deep Learning,1
+contents,Recent Projects,1
+cypherpunk,Money,1
+ecash,Bitcoin,8
+ecash,Blockchain,4
+ecash,Cashu,2
+flossverse,Machine Learning,1
+flossverse,Mixed reality,1
+flossverse,Money,2
+flossverse,collaborative,1
+infrastructure,Money,0.1
+infrastructure,Trust and Safety,1
+latent space,Artificial Intelligence,1
+latent space,OpenAI,1
+multimodal,Apple,2.2
+multimodal,ChatGPT,1
+multimodal,Deepmind,1
+multimodal,Gemini,2.1
+multimodal,Large language models,3
+multimodal,OpenAI,1
+multimodal,Transformers,0.1
+multimodal,latent space,1
+nostr,Agents,2
+nostr,Bitcoin,4
+nostr,Digital Objects,2
+nostr,Distributed Identity,2
+nostr,Mixed reality,1
+nostr,RGB,2
+nostr,collaborative,2
+nostr,infrastructure,3
+qlora,Large language models,1
+relighting,AI Video,1
+relighting,Apple,0.4
+relighting,ComfyUI,1.2

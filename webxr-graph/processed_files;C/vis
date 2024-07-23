@@ -1,0 +1,29 @@
+import csv
+import networkx as nx
+import matplotlib.pyplot as plt
+
+# Define the path to the CSV file
+csv_file_path = r'C:\Users\lolic\githubs\JingSpringThing\webxr-graph\processed_files;C\graph-data.csv'  # Replace with the correct path
+
+# Create a directed graph
+G = nx.DiGraph()
+
+# Read the CSV file and add edges to the graph
+with open(csv_file_path, newline='') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        G.add_edge(row['source'], row['target'], weight=float(row['weight']))
+
+# Draw the graph
+pos = nx.spring_layout(G, seed=42)  # positions for all nodes
+edges = G.edges(data=True)
+weights = [edge[2]['weight'] for edge in edges]
+
+plt.figure(figsize=(12, 8))
+nodes = nx.draw_networkx_nodes(G, pos, node_color='lightblue', node_size=5000)
+labels = nx.draw_networkx_labels(G, pos, font_size=10)
+edges = nx.draw_networkx_edges(G, pos, edgelist=edges, edge_color=weights, edge_cmap=plt.cm.Blues, width=2)
+edge_labels = nx.draw_networkx_edge_labels(G, pos, edge_labels={(edge[0], edge[1]): edge[2]['weight'] for edge in edges})
+
+plt.title("Network Graph Visualization")
+plt.show()
