@@ -1,0 +1,23 @@
+{
+  "sha": "edf5d393efcfd290548a93b7fc096ae63973cb2b",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://en.wikipedia.org/wiki/Cypherpunk",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.activism.net/cypherpunk/manifesto.html",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

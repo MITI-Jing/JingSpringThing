@@ -1,0 +1,14 @@
+{
+  "sha": "d064cf73a1bb6731f31200eb6aeff2b9a96104bc",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "http://192.168.0.51:3000\"",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

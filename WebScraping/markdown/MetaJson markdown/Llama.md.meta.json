@@ -1,0 +1,41 @@
+{
+  "sha": "6703bbd8b6e1bc6ef9815812dbec8d7c833583f9",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://lmsys.org/blog/2024-05-08-llama3/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://lmsys.org/images/blog/llama3/topic_win_rate.png",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-8b",
+        "published_date": "2024-02-22"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

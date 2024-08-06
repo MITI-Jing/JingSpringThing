@@ -1,0 +1,41 @@
+{
+  "sha": "a25e0ce9a036adbcc010cd22b5f148254b033a75",
+  "hyperlinks": [
+    {
+      "url": "https://www.matthewball.vc/",
+      "url_type": "Web Page",
+      "published_date": "2019-08-22",
+      "weight": 0.4
+    },
+    {
+      "url": "https://time.com/6197849/metaverse-future-matthew-ball/",
+      "url_type": "Web Page",
+      "published_date": "2022-07-18",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.matthewball.vc/all/epicprimer1",
+      "url_type": "Web Page",
+      "published_date": "2020-05-18",
+      "weight": 0.4
+    },
+    {
+      "url": "https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/",
+      "url_type": "Web Page",
+      "published_date": "2022-07-14",
+      "weight": 0.6
+    },
+    {
+      "url": "https://blog.playstation.com/2023/01/04/introducing-project-leonardo-for-playstation-5-a-highly-customizable-accessibility-controller-kit/",
+      "url_type": "Web Page",
+      "published_date": "2023-01-04",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.xbox.com/en-GB/accessories/controllers/xbox-adaptive-controller",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

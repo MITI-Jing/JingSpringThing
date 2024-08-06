@@ -1,0 +1,77 @@
+{
+  "sha": "45a70518ed54b0338cde1f038de3f411dc5a7d40",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://gizmodo.com/deepfake-video-call-scams-finance-bro-out-25-million-1851227196",
+        "published_date": "2024-02-05"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://docs.fcc.gov/public/attachments/FCC-24-17A1.pdf",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://apnews.com/article/biden-robocalls-artificial-intelligence-new-hampshire-texas-a8665277d43d05380d2c7594edf27617",
+        "published_date": "2024-02-06"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.bland.ai/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.euractiv.com/section/artificial-intelligence/news/viral-deepfake-videos-of-le-pen-family-reminder-that-content-moderation-is-still-not-up-to-par-ahead-of-eu-elections/",
+        "published_date": "2024-04-16"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://twitter.com/BrivaelLp/status/1772023234512175290",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://twitter.com/BrivaelLp/status/1772023234512175290}}",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://twitter.com/jelleprins/status/1771459616016126015?}}",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "sha": "159a0a03ec52dd8d70fd8a088bdc93d7a0b45bd7",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review#gap",
+        "published_date": "2022-12-06"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://huggingface.co/papers",
+        "published_date": "2024-08-06"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://app.rundiffusion.com/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://arxiv.org/pdf/2305.05862.pdf",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.oneusefulthing.org/p/reshaping-the-tree-rebuilding-organizations",
+        "published_date": "2023-11-27"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://twitter.com/emollick/status/1775176524653642164",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://twitter.com/emollick/status/1775176524653642164}}",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.scan.co.uk/business/deep-learning",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.silo.ai/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://cloud.google.com/asl/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.runpod.io/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.youtube.com/watch?v=WjiX3lCnwUI",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://lambdalabs.com/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.wired.com/story/ai-bot-running-for-mayor-wyoming/",
+        "published_date": "2024-06-12"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.wired.com/story/ai-candidate-running-for-parliament-uk/",
+        "published_date": "2024-06-11"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

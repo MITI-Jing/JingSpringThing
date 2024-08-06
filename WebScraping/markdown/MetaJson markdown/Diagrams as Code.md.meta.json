@@ -1,0 +1,212 @@
+{
+  "sha": "18de4796086aa19445bc1f394fa9e155cb48fea9",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://kroki.io/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://chat.openai.com/g/g-5QhhdsfDj-diagrams-show-me/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://dreampuf.github.io/GraphvizOnline/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://graphviz.org/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://plantuml.com/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://texdoc.org/serve/bytefield.pdf/0",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "http://blockdiag.com/en/blockdiag/index.html",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "http://blockdiag.com/en/seqdiag/index.html",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "http://blockdiag.com/en/actdiag/index.html",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "http://blockdiag.com/en/nwdiag/index.html",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "http://ditaa.sourceforge.net/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.nomnoml.com/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://hackage.haskell.org/package/erd",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://pikchr.org/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://structurizr.com/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://vega.github.io/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://vega.github.io/vega-lite/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://wavedrom.com/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://d2lang.com/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.umlet.com/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://ivanceras.github.io/svgbob-editor/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://tikz.dev/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "sha": "a6be855ee46d9647cc8705cff6af90f9d9a03cdb",
+  "hyperlinks": [
+    {
+      "url": "https://lumalabs.ai/genie?view=create",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://lumalabs.ai/luma-web-library\"",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://3d.csm.ai/\"",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.meshy.ai/showcase\"",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://research.nvidia.com/labs/toronto-ai/LATTE3D/\"",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://stableprojectorz.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IXQg0ITHjtw}}",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://huggingface.co/stabilityai/stable-zero123",
+      "url_type": "Web Page",
+      "published_date": "2023-03-31",
+      "weight": 0.6
+    },
+    {
+      "url": "https://github.com/SUDO-AI-3D/zero123plus",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/flowtyone/ComfyUI-Flowty-TripoSR/tree/master",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/layerdiffusion/LayerDiffuse",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://huggingface.co/papers/2402.05054",
+      "url_type": "Web Page",
+      "published_date": "2024-02-09",
+      "weight": 0.8
+    },
+    {
+      "url": "https://github.com/SUDO-AI-3D/zero123plus/blob/main/resources/teaser-low.jpg?raw=true",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://unity-research.github.io/holo-gen/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/autodeskailab/clip-forge",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/gd3kr/BlenderGPT",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/neph1/blender-stable-diffusion-render/",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://paperswithcode.com/paper/text-to-mesh-without-3d-supervision-using",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/carson-katri/dream-textures/pull/409",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/AlexanderDzhoganov/ComfyTextures",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://huggingface.co/papers/2402.07207",
+      "url_type": "Web Page",
+      "published_date": "2024-02-13",
+      "weight": 0.8
+    },
+    {
+      "url": "https://github.com/zoomin-lee/scene-scale-diffusion",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://zju3dv.github.io/onepose_plus_plus/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://captures.lumalabs.ai/imagine",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://nv-tlabs.github.io/GET3D/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/openai/point-e",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://ajayj.com/dreamfields",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://nv-tlabs.github.io/LION/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://threedle.github.io/3DHighlighter/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://nv-tlabs.github.io/vqad/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://ofa-sys.github.io/MoFusion/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://t.co/3i4QhbvAV8",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://t.co/8hIUGwWSFX",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://t.co/qr1yhDpHgd\"",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/TomLikesRobots/status/1603884188326940674",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://monstermash.zone/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/threedle/text2mesh",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://echoesofsomewhere.com/2023/01/25/modeling-a-robot-with-some-added-difficulty/",
+      "url_type": "Web Page",
+      "published_date": "2023-01-25",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.reddit.com/r/virtualreality/comments/xvy5dc/3d_generation_from_a_single_image/",
+      "url_type": "Reddit",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://nething.xyz/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://mrtornado24.github.io/DreamCraft3D/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://huggingface.co/papers/2401.17895",
+      "url_type": "Web Page",
+      "published_date": "2024-02-01",
+      "weight": 0.8
+    },
+    {
+      "url": "https://ir1d.github.io/AGG/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://huggingface.co/papers/2401.14828",
+      "url_type": "Web Page",
+      "published_date": "2024-01-29",
+      "weight": 0.8
+    },
+    {
+      "url": "https://github.com/wjakob/instant-meshes",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://make-it-3d.github.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://etaisella.github.io/htmlTutorial2.github.io-index.html/results_real.html",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://lukashoel.github.io/text-to-room/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://bennyguo.github.io/vmesh/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://ku-cvlab.github.io/3DFuse/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://replicate.com/yoyo-nb/thin-plate-spline-motion-model",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://katjaschwarz.github.io/voxgraf/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://samsunglabs.github.io/rome/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/cocktailpeanut/status/1765462787046686968",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/cocktailpeanut/status/1765462787046686968}}",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/blizaine/status/1765434684450742764?}}",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

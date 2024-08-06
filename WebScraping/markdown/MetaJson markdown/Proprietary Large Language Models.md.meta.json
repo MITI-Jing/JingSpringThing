@@ -1,0 +1,71 @@
+{
+  "sha": "c94f5d2589f8fbff01bae27a54e679cff801fd25",
+  "hyperlinks": [
+    {
+      "url": "https://www.linkedin.com/posts/peter-gostev_we-are-seeing-some-clear-categories-emerge-activity-7183501457684365314-iihT?",
+      "url_type": "LinkedIn",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://techcrunch.com/2023/10/09/chatgpts-mobile-app-hit-record-4-58m-in-revenue-last-month-but-growth-is-slowing/",
+      "url_type": "Web Page",
+      "published_date": "2023-10-09",
+      "weight": 0.8
+    },
+    {
+      "url": "https://platform.openai.com/docs/guides/prompt-engineering",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://medium.com/@michaelev3/connecting-custom-gpts-to-google-apis-726dc2cdb54d",
+      "url_type": "Medium",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://chat.openai.com/g/g-n7Rs0IK86-grimoire",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/ConsensusNLP/status/1724872225780625419}}}",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/anthropics/sleeper-agents-paper",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/natfriedman/status/1777739863678386268/photo/1}}",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://stratechery.com/2024/gemini-1-5-and-googles-nature/",
+      "url_type": "Web Page",
+      "published_date": "2024-04-10",
+      "weight": 0.8
+    },
+    {
+      "url": "https://hbr.org/2023/12/strategy-not-technology-is-the-key-to-winning-with-genai",
+      "url_type": "Web Page",
+      "published_date": "2023-12-06",
+      "weight": 0.8
+    },
+    {
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/18tqyn4/midjourney_v60_vs_sdxl_exact_same_prompts_using/",
+      "url_type": "Reddit",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

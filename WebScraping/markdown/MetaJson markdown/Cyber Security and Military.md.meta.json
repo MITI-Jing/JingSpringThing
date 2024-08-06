@@ -1,0 +1,86 @@
+{
+  "sha": "fce51c6dcd1b8fd3ef8a0f0e3965b9036080f21a",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://time.com/6691662/ai-ukraine-war-palantir/",
+        "published_date": "2024-02-08"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.cyber.gc.ca/en/news-events/russian-state-sponsored-media-organization-leverages-ai-enhanced-meliorator-software-foreign-malign-influence-activity",
+        "published_date": "2024-07-09"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.msn.com/en-gb/money/technology/microsoft-develops-secure-generative-ai-for-us-spies/ar-BB1m1vBa?ocid=msedgdhp&pc=HCTS&cvid=4ae66ceacb324ed785bfa6df68b126cd&ei=16",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.washingtonpost.com/opinions/2024/06/25/ai-weapon-us-tech-companies/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes}}",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://nationalinterest.org/blog/buzz/autonomous-f-16-fighters-are-%E2%80%98roughly-even%E2%80%99-human-pilots-said-air-force-chief-210974",
+        "published_date": "2024-05-10"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.youtube.com/watch?v=KX0ji1sAXl8}}",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.wired.com/story/openai-tech-giants-us-government-ai-projects/",
+        "published_date": "2024-01-26"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://interestingengineering.com/military/robot-dogs-better-sharpshooters-study",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

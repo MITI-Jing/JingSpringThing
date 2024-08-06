@@ -1,0 +1,23 @@
+{
+  "sha": "23268058352dc5352eab916060fb993523b66952",
+  "hyperlinks": [
+    {
+      "url": "https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-win.exe",
+      "url_type": "Unknown",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://install.launcher.omniverse.nvidia.com/installers/omniverse-launcher-linux.AppImage",
+      "url_type": "Unknown",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xnUTCp_vN8I",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

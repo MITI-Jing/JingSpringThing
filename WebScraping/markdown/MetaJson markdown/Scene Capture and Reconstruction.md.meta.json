@@ -1,0 +1,521 @@
+{
+  "sha": "049d8c730e3c99f449093320466beaf8a89803eb",
+  "hyperlinks": [
+    {
+      "url": "https://hackaday.com/2022/10/02/in-a-way-3d-scanning-is-over-a-century-old/",
+      "url_type": "Web Page",
+      "published_date": "2022-10-02",
+      "weight": 0.6
+    },
+    {
+      "url": "http://graphics.stanford.edu/projects/lightfield/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.matthewtancik.com/nerf",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://blog.google/technology/research/project-starline-expands-testing/",
+      "url_type": "Web Page",
+      "published_date": "2022-10-11",
+      "weight": 0.6
+    },
+    {
+      "url": "https://mohamad-shahbazi.github.io/inserf/\"",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://ai.meta.com/research/publications/scenescript-reconstructing-scenes-with-an-autoregressive-structured-language-model/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.capturingreality.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://kaist-viclab.github.io/pronerf-site/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://jonbarron.info/zipnerf",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/3a1b2c3/seeingSpace/wiki/Hands-on:-Getting-started-and-Nerf-frameworks",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://mohamad-shahbazi.github.io/inserf/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://neuralradiancefields.io/nerflix-increased-nerf-quality-and-floater-removal",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://neuralradiancefields.io/history-of-neural-radiance-fields",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.mmlab-ntu.com/project/vtoonify",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://sites.google.com/view/recolornerf",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.linkedin.com/posts/robcsloan_nerfstudio-nerfstudio-polycam-activity-6999169160379297792-SN4F",
+      "url_type": "LinkedIn",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/MoyGcc/vid2avatar",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://grail.cs.washington.edu/projects/humannerf",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://naavik.co/business-breakdowns/axie-infinity",
+      "url_type": "Web Page",
+      "published_date": "2021-11-12",
+      "weight": 0.6
+    },
+    {
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://limacv.github.io/SpecNeRF_web/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://fangjinhuawang.github.io/UniSDF/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://signerf.jdihlmann.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.garfield.studio/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.byplay.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Neural_radiance_field",
+      "url_type": "Wikipedia",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/vectr-ucla/direct_lidar_inertial_odometry",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.matthewtancik.com/nerf",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://neuralradiancefields.io/history-of-neural-radiance-fields/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/sxyu/volrend",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/bycloudai/instant-ngp-Windows",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/marek-simonik/record3d_unity_streaming",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/yenchenlin/awesome-NeRF",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.linkedin.com/posts/robcsloan_nerfstudio-nerfstudio-polycam-activity-6999169160379297792-SN4F?utm_source=share&utm_medium=member_desktop",
+      "url_type": "LinkedIn",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://docs.nerf.studio/en/latest/quickstart/custom_dataset.html#polycam-capture",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://elicit3d.github.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://paperswithcode.com/paper/4k-nerf-high-fidelity-neural-radiance-fields",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/frozoul/4K-NeRF",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.reddit.com/r/deeplearning/comments/zowgqn/neural_rendering_reconstruct_your_city_in_3d/",
+      "url_type": "Reddit",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://waymo.com/research/block-nerf/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/3a1b2c3/seeingSpace/wiki/Hands-on:-Getting-started-and-Nerf-frameworks",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/ToniRV/NeRF-SLAM",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.xxlong.site/NeuralUDF/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/2102.06205",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://alexyu.net/plenoxels/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://vcai.mpi-inf.mpg.de/projects/NeuS2/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.matthewtancik.com/nerf",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://sites.google.com/view/recolornerf?pli=1",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://volinga.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://make-a-video3d.github.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://robustnerf.github.io/public/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/JamesPerlman/NeRFRenderCore/blob/main/src/integrations/blender.cuh",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/NVlabs/instant-ngp#vr-controls",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://bakedsdf.github.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://elicit3d.github.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/frozoul/4k-nerf",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://climatenerf.github.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/tonirv/nerf-slam",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://grail.cs.washington.edu/projects/humannerf/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://instruct-nerf2nerf.github.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://mobile.twitter.com/bilawalsidhu/status/1638919452392583169",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/taichi-dev/taichi-nerfs",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://totoro97.github.io/projects/f2-nerf/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.lerf.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/lyclyc52/NeRF_RPN",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://ai.googleblog.com/2023/06/reconstructing-indoor-spaces-with-nerf.html",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://neuralradiancefields.io/whats-the-best-focal-length-to-take-a-nerf/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://jonbarron.info/zipnerf/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://bakedsdf.github.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://neuralradiancefields.io/venturing-beyond-reality-vr-nerf/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "http://introlab.github.io/rtabmap/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.unrealengine.com/en-US/blog/realityscan-is-now-free-to-download-on-ios",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CEC5UwPV9gY",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.substance3d.com/",
+      "url_type": "Error: HTTPSConnectionPool(host='www.adobe.com', port=443): Max retries exceeded with url: /creativecloud/3d-ar.html (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.adobe.com', port=443): Read timed out. (read timeout=10)\"))",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://3dpresso.ai/viewer?seq=mr3.yg5isic8KGJZ1DAjW5VMc",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://machinelearning.apple.com/research/pointersect",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://research.nvidia.com/labs/dir/neuralangelo/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://huggingface.co/papers/2306.05422",
+      "url_type": "Web Page",
+      "published_date": "2023-06-09",
+      "weight": 0.6
+    },
+    {
+      "url": "https://leica-geosystems.com/products/laser-scanners/autonomous-reality-capture/leica-blk2go-handheld-imaging-laser-scanner",
+      "url_type": "Error: HTTPSConnectionPool(host='leica-geosystems.com', port=443): Max retries exceeded with url: /products/laser-scanners/autonomous-reality-capture/leica-blk2go-handheld-imaging-laser-scanner (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://alicevision.org/#meshroom",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://nira.app/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/xjorma/EarthMeshHoudini?",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://diffusionlight.github.io/index.html",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://jiyewise.github.io/projects/MocapEvery/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

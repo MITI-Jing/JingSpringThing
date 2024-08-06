@@ -1,0 +1,32 @@
+{
+  "sha": "e1acf875f05e87c607ef7d8d8392398151a17116",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://open.spotify.com/episode/7EBXdFqRGw6PKDrDnadaid?",
+        "published_date": "2024-01-10"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.forbes.com/sites/rayravaglia/2023/10/05/class-companion-puts-ai-to-work-helping-teachers-help-students/",
+        "published_date": "2023-10-05"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.oneusefulthing.org/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

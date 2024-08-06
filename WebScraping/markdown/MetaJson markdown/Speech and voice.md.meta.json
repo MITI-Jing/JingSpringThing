@@ -1,0 +1,359 @@
+{
+  "sha": "a9bb98fe95522107f9f1be88a0f57c6c5017c26d",
+  "hyperlinks": [
+    {
+      "url": "https://www.youtube.com/watch?v=xCDAjpZJWYw}}",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/NVIDIA/NeMo",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://nvidia.github.io/NeMo/blogs/2024/2024-02-canary/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/sbhavani/TransformerEngine/raw/main/docs/examples/H200-NeMo-performance.png",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/NVIDIA/NeMo/blob/main/tutorials/tts/FastPitch_Adapter_Finetuning.ipynb",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://elevenlabs.io/blog/audio-native/",
+      "url_type": "Web Page",
+      "published_date": "2024-05-16",
+      "weight": 0.8
+    },
+    {
+      "url": "https://github.com/openai/whisper",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/davabase/transcriber_app/",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/ggerganov/whisper.cpp",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://medium.com/@daniel-klitzke/quantizing-openais-whisper-with-the-huggingface-optimum-library-30-faster-inference-64-36d9815190e0",
+      "url_type": "Medium",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nwPaRSlDSaY",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://cleanvoice.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://voice.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/neonbjb/tortoise-tts",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://txt.cohere.ai/introducing-sandbox-coheres-experimental-open-source-initiative/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://mugen-org.github.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://atosystem.github.io/blogs/speechclip",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://podcastle.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://variety.com/2022/digital/news/james-earl-jones-darth-vader-retiring-star-wars-ai-1235382827/",
+      "url_type": "Web Page",
+      "published_date": "2022-09-24",
+      "weight": 0.6
+    },
+    {
+      "url": "https://voice.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://the-decoder.com/developer-combines-stable-diffusion-whisper-and-gpt-3-for-a-futuristic-design-assistant/",
+      "url_type": "Web Page",
+      "published_date": "2022-10-15",
+      "weight": 0.6
+    },
+    {
+      "url": "https://blog.lopp.net/open-source-transcription-software-comparisons/",
+      "url_type": "Web Page",
+      "published_date": "2023-01-14",
+      "weight": 0.6
+    },
+    {
+      "url": "https://github.com/modal-labs/modal-examples/tree/main/misc/whisper_pod_transcriber",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://valle-demo.github.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://app.uberduck.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://beta.elevenlabs.io/",
+      "url_type": "Web Page",
+      "published_date": "2023-06-13",
+      "weight": 0.6
+    },
+    {
+      "url": "https://uberduck.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://numenvoice.com",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DnF4WzM5LPU",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/suno-ai/bark",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/TensorSpeech/TensorFlowTTS",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TGZV831VTpc",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/coqui-ai/TTS",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/neonbjb/tortoise-tts",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/rhasspy/larynx",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://git.ecker.tech/mrq/ai-voice-cloning",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/",
+      "url_type": "Facebook",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.reddit.com/r/MachineLearning/comments/133hanr/d_what_are_the_differences_between_the_major_open/",
+      "url_type": "Reddit",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.reddit.com/r/MachineLearning/comments/133hanr/d_what_are_the_differences_between_the_major_open/",
+      "url_type": "Reddit",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.howtogeek.com/882019/how-to-use-chatgpt-like-google-assistant-on-android/",
+      "url_type": "Web Page",
+      "published_date": "2023-03-30",
+      "weight": 0.6
+    },
+    {
+      "url": "https://github.com/DonGuillotine/chatGPT_whisper_AI_voice_assistant",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://voicepen.ai",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://krisp.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://cleanvoice.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/central-intelligent-agent-enabling-next-generation-james-poulter?",
+      "url_type": "LinkedIn",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/TensorSpeech/TensorFlowTTS",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://variety.com/2022/digital/news/james-earl-jones-darth-vader-retiring-star-wars-ai-1235382827/%7D%7BRespeecher%7D",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/transcriptionstream/transcriptionstream",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://tincans.ai/slm3",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://research.myshell.ai/open-voice",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1c8oea6/endlessdreams_voice_directed_realtime_videos_at/",
+      "url_type": "Reddit",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://demo.hume.ai/?",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/metavoiceio/metavoice-src",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/NVIDIA/NeMo/blob/main/tutorials/tts/NeMo_TTS_Primer.ipynb",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

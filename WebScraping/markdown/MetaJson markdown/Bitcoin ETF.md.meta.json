@@ -1,0 +1,59 @@
+{
+  "sha": "e3637a37cc001442e077041fdbd00d7d29b7140e",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://youtu.be/tu3V-3zV3H4}}",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://twitter.com/PhoenixWallet/status/1783878658014249027",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://twitter.com/PhoenixWallet/status/1783878658014249027}}",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://x.com/CryptoVizArt/status/1800394787284996362",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://x.com/CryptoVizArt/status/1800394787284996362}}",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.theblock.co/data/crypto-markets/bitcoin-etf/spot-bitcoin-etf-assets/embed\"",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

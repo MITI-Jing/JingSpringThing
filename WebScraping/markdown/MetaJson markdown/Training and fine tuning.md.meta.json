@@ -1,0 +1,71 @@
+{
+  "sha": "e2a46ab222e282d817d6c4d0701a2655efaab1a3",
+  "hyperlinks": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Byte_pair_encoding],",
+      "url_type": "Wikipedia",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/1706.03762],",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/1810.04805].",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/1706.03762].",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/2106.01345].",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/2005.14165;",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/2005.11401].",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://aclanthology.org/2020.acl-main.357/;",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/2202.07724].",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/1503.02531;",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://super.gluebenchmark.com/].",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

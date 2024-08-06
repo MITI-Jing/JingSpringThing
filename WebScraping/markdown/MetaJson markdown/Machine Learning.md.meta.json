@@ -1,0 +1,23 @@
+{
+  "sha": "e2b00cd84a3a053e41690b24ba55f6c98210b4d8",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://github.com/recommenders-team/recommenders",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.mlblocks.com/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

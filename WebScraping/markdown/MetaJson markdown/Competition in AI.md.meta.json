@@ -1,0 +1,14 @@
+{
+  "sha": "16a8d7af03abd6cdc90b39599c9fe9a9c4bf3ef8",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://www.latent.space/p/dec-2023",
+        "published_date": "2024-01-08"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

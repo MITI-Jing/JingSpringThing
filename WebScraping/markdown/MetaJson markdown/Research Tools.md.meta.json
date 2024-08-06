@@ -1,0 +1,59 @@
+{
+  "sha": "c16c948d5927abe4d090841fd42d984502a4932b",
+  "hyperlinks": [
+    {
+      "url": "https://elicit.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.undermind.ai/home/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.perplexity.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ue4NU-U-hAE",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://storm.genie.stanford.edu/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/stanford-oval/storm",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/logseq-copilot/hihgfcgbmnbomabfdbajlbpnacndeihl?pli=1",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://chromewebstore.google.com/detail/logseq-quick-capture/hdpmdgiddmjppbeahnglgagndmahlanc",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.academicai.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "sha": "b8015dd921c15c3a89aaac52604b603d6ddd91d3",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://www.youtube.com/watch?v=WPlUSnLTmfI",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://civitai.com/models/372584/ipivs-morph-img2vid-animatediff-lcm-hyper-sd\"",
+        "published_date": "2024-03-28"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

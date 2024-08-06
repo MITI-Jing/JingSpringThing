@@ -1,0 +1,23 @@
+{
+  "sha": "6679d040c847899d70b32e69871a0cf563ca4e22",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://github.com/flossverse/product",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.afrobitcoin.org/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

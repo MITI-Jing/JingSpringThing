@@ -1,0 +1,41 @@
+{
+  "sha": "6b205d8367868d7e20c603e70a0878b50924aaaf",
+  "hyperlinks": [
+    {
+      "url": "https://huggingface.co/blog/autoformer",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://sites.google.com/view/irinalab/blog/lag-llama",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.amorphousdata.com/blog/time-series-vs-regression",
+      "url_type": "Web Page",
+      "published_date": "2024-02-05",
+      "weight": 0.8
+    },
+    {
+      "url": "https://www.uber.com/en-GB/blog/m4-forecasting-competition/",
+      "url_type": "Unknown",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/2310.06625",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "sha": "56338e174f102016e773673c0c21b5446f061492",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://bills.parliament.uk/bills/3137",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://dataethics.eu/the-three-ms-of-the-metaverse/",
+        "published_date": "2022-10-30"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

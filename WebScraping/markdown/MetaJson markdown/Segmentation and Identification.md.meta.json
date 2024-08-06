@@ -1,0 +1,119 @@
+{
+  "sha": "f1559ea8213cdcf8a257475f73efd2983a595d15",
+  "hyperlinks": [
+    {
+      "url": "https://deepdataspace.com/blog/T-Rex",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://segment-anything.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TFfKE3Jyy-w",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/facebookresearch/detectron2",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/roboflow/supervision",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "http://www.vis.xyz/pub/sam-pt",
+      "url_type": "Web Page",
+      "published_date": "2023-07-03",
+      "weight": 0.6
+    },
+    {
+      "url": "https://github.com/CodingMantras/yolov8-streamlit-detection-tracking",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://deci.ai/blog/yolo-nas-foundation-model-object-detection/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://medium.com/@kleve.2406/how-to-segment-with-yolov8-f33b1c63b6c6",
+      "url_type": "Medium",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://huggingface.co/docs/transformers/main/model_doc/sam",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.linkedin.com/posts/eric-vyacheslav-156273169_big-news-meta-just-released-segment-anything-activity-7049409700370554880-tStk?utm_source=share&utm_medium=member_android",
+      "url_type": "LinkedIn",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "http://github.com/baaivision/Painter",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1se8YEtb2detS7OuPE86fXGyD269pMycAWe2mtKUj2W8/edit#gid=0",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://buff.ly/3KD0Zns",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/DAMO-NLP-SG/Video-LLaMA",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/RaymondWang987/NVDS",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://holisticseg.github.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://faromero.substack.com/p/video-analysis-beyond-bounding-boxes",
+      "url_type": "Web Page",
+      "published_date": "2023-08-22",
+      "weight": 0.8
+    },
+    {
+      "url": "https://laion.ai/blog/video2dataset/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

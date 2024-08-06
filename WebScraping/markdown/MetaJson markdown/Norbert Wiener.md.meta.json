@@ -1,0 +1,14 @@
+{
+  "sha": "8eda3da1f8bf5ffdf9ade33e5ccb6c0ac508a967",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://monoskop.org/images/9/90/Wiener_Norbert_The_Human_Use_of_Human_Beings_1950.pdf\"",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

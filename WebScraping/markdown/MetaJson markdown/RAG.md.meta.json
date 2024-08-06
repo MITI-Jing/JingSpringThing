@@ -1,0 +1,95 @@
+{
+  "sha": "83fd31a320533e9559c83c7868e89a3d7495b28a",
+  "hyperlinks": [
+    {
+      "url": "https://www.youtube.com/watch?v=WQsN0_eVaEs",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://dtunkelang.medium.com/ai-powered-search-embedding-based-retrieval-and-retrieval-augmented-generation-rag-cabeaba26a8b",
+      "url_type": "Medium",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://marker-inc-korea.github.io/AutoRAG/index.html",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/llmware-ai/llmware",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://turbopuffer.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://james-tn.medium.com/forget-rag-embrace-agent-design-for-a-more-intelligent-grounded-chatgpt-6c562d903c61",
+      "url_type": "Medium",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://medium.com/@sivaad/openai-devday-for-executives-will-gpt-4-turbo-kill-traditional-rag-c82748c8feb9",
+      "url_type": "Medium",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.reddit.com/r/ChatGPTCoding/comments/183qetc/made_a_small_cli_tool_to_create_openai_assistants/",
+      "url_type": "Reddit",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "http://vectordb.com",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://nux.ai/guides/chaining-rag-systems",
+      "url_type": "Error: HTTPSConnectionPool(host='nux.ai', port=443): Max retries exceeded with url: /guides/chaining-rag-systems (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FE048CD390>, 'Connection to nux.ai timed out. (connect timeout=10)'))",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/davidgonmar/openai_instant_assistant",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://huggingface.co/rombodawg/test_dataset_Codellama-3-8B",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://llm-calc.rayfernando.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://ayumi.m8geil.de/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://vram.asmirnov.xyz/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

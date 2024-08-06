@@ -1,0 +1,197 @@
+{
+  "sha": "46cde0e2da838eceab625b9ce27da38cdad306ac",
+  "hyperlinks": [
+    {
+      "url": "https://cyborgism.wiki/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://websim.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://worldsim.nousresearch.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://open.spotify.com/episode/4YTQ2QjCpfdXKRKzjz7Zpg?",
+      "url_type": "Web Page",
+      "published_date": "2024-07-09",
+      "weight": 1.0
+    },
+    {
+      "url": "https://arxiv.org/pdf/2406.06608",
+      "url_type": "PDF",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://ar5iv.labs.arxiv.org/html/2302.11382",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/2312.16171v1",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/2401.14295",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.oneusefulthing.org/p/captains-log-the-irreducible-weirdness",
+      "url_type": "Web Page",
+      "published_date": "2024-03-04",
+      "weight": 0.8
+    },
+    {
+      "url": "https://webprompts.org/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/pdf/2402.10949.pdf",
+      "url_type": "PDF",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.linkedin.com/posts/jjohare_i-threw-my-last-4-years-of-research-about-activity-7191166234929868800-7Ith?utm_source=share&utm_medium=member_desktop",
+      "url_type": "LinkedIn",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/18e9sio/negative_prompt_tips/",
+      "url_type": "Reddit",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://comfyworkflows.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://flowt.ai/community?category=Trending",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://openart.ai/workflows/home?appSort=featured",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://openart.ai/flow-apps",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.basedlabs.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://civitai.com/images",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://mitenmit.github.io/gpt/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://medium.com/@Writingbird/how-i-won-singapores-gpt4-prompt-competition-86c644df46aa",
+      "url_type": "Medium",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://learnprompting.org/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.reddit.com/user/spdustin/",
+      "url_type": "Reddit",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://chat.openai.com/g/g-LQHhJCXhW-autoexpert-chat",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://chat.openai.com/g/g-pTF23RJ6f-autoexpert-dev",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://chat.openai.com/g/g-YAgNxPJEq-autoexpert-academic",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/spdustin/ChatGPT-AutoExpert",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.google.com/search?q=expanded+search+terms",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.google.com/search?q=expanded+search+terms",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.google.com/search?q=expanded+search+terms",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.google.com/search?q=expanded+search+terms",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

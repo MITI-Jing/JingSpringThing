@@ -1,0 +1,86 @@
+{
+  "sha": "0830b51a41636bb639789a6ba972dfc3e5f9cfce",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://www.youtube.com/watch?v=SaCVSUbYpVc}}",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/\"",
+        "published_date": "2024-04-07"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.youtube.com/watch?v=SZVCJRUADc4",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://paulrobichaux.com/2023/12/14/first-look-at-microsoft-365-copilot/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.linkedin.com/posts/emollick_finally-more-gpt-4-abilities-are-coming-activity-7148155477418278912-Ffdz?",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.theverge.com/2024/1/15/24038711/microsoft-copilot-pro-office-ai-apps",
+        "published_date": "2024-01-15"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://i.redd.it/lgjjtl5j72xc1.jpeg",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.semianalysis.com/p/openai-is-doomed-et-tu-microsoft",
+        "published_date": "2024-05-07"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.theverge.com/2023/2/23/23609942/microsoft-bing-sydney-chatbot-history-ai",
+        "published_date": "2023-02-23"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

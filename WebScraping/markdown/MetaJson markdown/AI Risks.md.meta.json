@@ -1,0 +1,23 @@
+{
+  "sha": "cb74519a74d0adff7687e2ed4cbd4104ef145698",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/",
+        "published_date": "2024-01-30"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.economist.com/business/2024/01/01/welcome-to-the-era-of-ai-nationalism",
+        "published_date": "2024-01-01"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

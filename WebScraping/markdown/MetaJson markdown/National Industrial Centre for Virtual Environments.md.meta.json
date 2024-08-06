@@ -1,0 +1,50 @@
+{
+  "sha": "74f65333de6974efd561d1ae553f0c5c38feeed2",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://www.linkedin.com/in/ACoAAAACrVwB204Ab7f4c5tb6XmlXPpd9ov_mrA",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.aaai.org/Papers/Symposia/Fall/1999/FS-99-01/FS99-01-014.pdf](https://www.aaai.org/Papers/Symposia/Fall/1999/FS-99-01/FS99-01-014.pdf",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.linkedin.com/in/ACoAAAfPu4gBKe76g1PvTLMvi7uMUwf9ZAMC60s",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.linkedin.com/company/euravia/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.pinkbike.com/video/464827/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

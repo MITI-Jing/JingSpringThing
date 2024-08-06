@@ -1,0 +1,71 @@
+{
+  "sha": "b94735ef0c52c9057266e821d227c766ab593114",
+  "hyperlinks": [
+    {
+      "url": "https://playertwo.ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://futurefleet.co/",
+      "url_type": "Error: HTTPSConnectionPool(host='futurefleet.co', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001FE7B0E8710>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://quasiscience.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://fuzzyduck.co.uk/",
+      "url_type": "Web Page",
+      "published_date": "2018-08-02",
+      "weight": 0.4
+    },
+    {
+      "url": "https://www.immersive.international/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.pathwayxr.studio/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://neocadia.com/",
+      "url_type": "Web Page",
+      "published_date": "2022-12-27",
+      "weight": 0.6
+    },
+    {
+      "url": "https://vircadia.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/Single_Use_Seal",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://diba.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://parentsguidetoai.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

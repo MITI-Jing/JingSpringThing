@@ -1,0 +1,185 @@
+{
+  "sha": "cd1daa2080fe1f83ecc81d683b430afae27e66b8",
+  "hyperlinks": [
+    {
+      "url": "https://twitter.com/Sharp_On_Sats/status/1779818457476825594",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/Sharp_On_Sats/status/1779818457476825594}}",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/orgs/RGB-WG/discussions/52",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://podcasters.spotify.com/pod/show/dtrhole/episodes/e17-The-Bitcoin-Contracting-Layer---RGB-with-Maxim-Orlovsky-eqdfh6",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.samara-ag.com/market-insights/rgb-protocol",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://rgbfaq.com/faq",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://rgb.tech",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://blackpaper.rgb.tech",
+      "url_type": "Web Page",
+      "published_date": "2023-03-01",
+      "weight": 0.6
+    },
+    {
+      "url": "https://spec.rgb.tech",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://standards.lnp-bp.org",
+      "url_type": "Web Page",
+      "published_date": "2023-12-16",
+      "weight": 0.8
+    },
+    {
+      "url": "https://aluvm.org",
+      "url_type": "Error: HTTPSConnectionPool(host='aluvm.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FE7A549E90>, 'Connection to aluvm.org timed out. (connect timeout=10)'))",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://strict-types.org",
+      "url_type": "Error: HTTPSConnectionPool(host='strict-types.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FE7A549B10>, 'Connection to strict-types.org timed out. (connect timeout=10)'))",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://contractum.org",
+      "url_type": "Error: HTTPSConnectionPool(host='contractum.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FE7A54A350>, 'Connection to contractum.org timed out. (connect timeout=10)'))",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/RGB-WG",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "http://reddit.com/r/RGB_protocol/",
+      "url_type": "Reddit",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/i/communities/1585365616743022595",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/lnp_bp",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://t.me/rgbtelegram",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://t.me/lnp_bp",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://rgbfaq.com",
+      "url_type": "Web Page",
+      "published_date": "2021-06-30",
+      "weight": 0.4
+    },
+    {
+      "url": "https://github.com/LNP-BP/devcalls",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/LNP-BP/devcalls/wiki/Devcalls",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://youtube.com/@lnp_bp",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/LNP-BP/presentations/tree/master/Presentation%20slides",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/LNP-BP",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/BP-WG",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/LNP-WG",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/Storm-WG",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=io.hexawallet.hexa2",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://thebitcoinmanual.com/articles/brollups/",
+      "url_type": "Web Page",
+      "published_date": "2024-06-28",
+      "weight": 0.8
+    }
+  ]
+}

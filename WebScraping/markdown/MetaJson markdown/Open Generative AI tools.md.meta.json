@@ -1,0 +1,53 @@
+{
+  "sha": "f753c2b20684ef6be7721d816c2d8fe2cacc8049",
+  "hyperlinks": [
+    {
+      "url": "https://github.com/Hannibal046/Awesome-LLM",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://llm.extractum.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://flowiseai.com/",
+      "url_type": "Web Page",
+      "published_date": "2023-08-10",
+      "weight": 0.8
+    },
+    {
+      "url": "http://192.168.0.51:3000/canvas/b9738eeb-4fa2-41a0-9535-549638a958f5\"",
+      "url_type": "Error: HTTPConnectionPool(host='192.168.0.51', port=3000): Max retries exceeded with url: /canvas/b9738eeb-4fa2-41a0-9535-549638a958f5%22 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001FE1F0C9790>, 'Connection to 192.168.0.51 timed out. (connect timeout=10)'))",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "http://192.168.0.51:8188\"",
+      "url_type": "Error: Failed to parse: http://192.168.0.51:8188\"",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kN8jdvRQvzA}}",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AF2VyqSApjA}}",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://app.rundiffusion.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

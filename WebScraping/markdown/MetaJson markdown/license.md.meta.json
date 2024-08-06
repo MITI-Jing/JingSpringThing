@@ -1,0 +1,41 @@
+{
+  "sha": "ca3351bb4155b6c8960237028ea869e3ea370c4e",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://www.narrativegoldmine.com",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "http://www.linkedin.com/in/jjohare",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

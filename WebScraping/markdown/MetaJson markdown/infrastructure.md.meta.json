@@ -1,0 +1,50 @@
+{
+  "sha": "fd672614dae16d801e0919ec7eaea6b8f5389b13",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://www.msn.com/en-gb/money/technology/microsoft-to-launch-ai-hub-in-london/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.independent.co.uk/business/microsoft-to-invest-ps2-5bn-in-uk-to-boost-ai-plans-b2456219.html",
+        "published_date": "2023-11-30"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.gov.uk/government/news/boost-for-uk-ai-as-microsoft-unveils-25-billion-investment",
+        "published_date": "2023-11-30"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://docs.teradici.com/knowledge",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://fireworks.ai/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

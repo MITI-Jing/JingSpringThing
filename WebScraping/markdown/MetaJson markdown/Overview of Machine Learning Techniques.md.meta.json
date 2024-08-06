@@ -1,0 +1,119 @@
+{
+  "sha": "f285c4fd9f629652c196d9319d7538f0be4d98eb",
+  "hyperlinks": [
+    {
+      "url": "https://simonwillison.net/2024/Jan/7/call-it-ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0925231220307153?",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://sites.cc.gatech.edu/home/isbell/classes/reading/papers/Rish.pdf",
+      "url_type": "PDF",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://medium.com/pew-research-center-decoded/a-short-intro-to-linear-regression-analysis-using-survey-data-ff39468f8afb",
+      "url_type": "Medium",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Maher-Maalouf-2/publication/283211221_IJDATS_Logistic_Regression_Rare_Events/data/562e0fb508ae518e34827577/IJDATS-Logistic-Regression-Rare-Events.pdf",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Purvi-Prajapati/publication/330138092_Study_and_Analysis_of_Decision_Tree_Based_Classification_Algorithms/links/5d2c4a91458515c11c3166b3/Study-and-Analysis-of-Decision-Tree-Based-Classification-Algorithms.pdf",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/1407.7502",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0020025522014633?",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.nature.com/articles/s41598-022-10358-x",
+      "url_type": "Web Page",
+      "published_date": "2022-01-05",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0925231216305550?",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aircAruvnKk&}}",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s42979-021-00815-1",
+      "url_type": "Web Page",
+      "published_date": "2021-05-29",
+      "weight": 0.4
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/abstract/document/8253599?",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/2305.18290?",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/abstract/document/8253599?",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/2311.10242",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/1706.03762",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://hazyresearch.stanford.edu/blog/2023-06-08-hyena-safari",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://bbycroft.net/llm\"",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

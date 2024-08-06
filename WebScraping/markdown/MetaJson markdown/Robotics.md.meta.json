@@ -1,0 +1,71 @@
+{
+  "sha": "05fc8105e7f4a2fff23c9264bc3e295ff041a304",
+  "hyperlinks": [
+    {
+      "url": "https://www.youtube.com/watch?v=Sq1QZB5baNw}}",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AePEcHIIk9s}}",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8ClYBtfhkaw}}",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://eureka-research.github.io/dr-eureka/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://mobile-aloha.github.io/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://spectrum.ieee.org/humanoid-robots",
+      "url_type": "Web Page",
+      "published_date": "2023-12-30",
+      "weight": 0.8
+    },
+    {
+      "url": "https://www.technologyreview.com/2024/02/01/1087445/this-robot-can-tidy-a-room-without-any-help/",
+      "url_type": "Web Page",
+      "published_date": "2024-02-01",
+      "weight": 0.8
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/",
+      "url_type": "Web Page",
+      "published_date": "2024-03-01",
+      "weight": 0.8
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tcDDDaSMW0I",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://shop.amberobotics.com/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://throwflame.com/products/thermonator-robodog/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

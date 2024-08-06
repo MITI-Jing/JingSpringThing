@@ -1,0 +1,233 @@
+{
+  "sha": "63b909c995abe9849644bf93f5ad3c3e4be3f120",
+  "hyperlinks": [
+    {
+      "url": "https://x.com/jerallaire/status/1803432989113593890",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.americanbanker.com/opinion/ststablecoins-are-backed-by-reserves-give-us-a-break",
+      "url_type": "Web Page",
+      "published_date": "2021-12-10",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.cigionline.org/articles/the-future-of-fintech-is-unfolding-in-africa/?",
+      "url_type": "Web Page",
+      "published_date": "2022-07-25",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2022-07-03/argentines-seek-hedging-in-crypto-after-economy-minister-resigns",
+      "url_type": "Web Page",
+      "published_date": "2022-07-03",
+      "weight": 0.6
+    },
+    {
+      "url": "https://medium.com/@nic__carter/five-perspectives-on-stablecoins-5bc20076270a\"",
+      "url_type": "Medium",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://medium.com/@nic__carter/five-perspectives-on-stablecoins-5bc20076270a",
+      "url_type": "Medium",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/spencernoon/status/1524752048121466883",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.americanbanker.com/news/bank-stablecoin-consortium-usdf-gets-a-ceo-grows-to-9-members",
+      "url_type": "Web Page",
+      "published_date": "2022-07-06",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.brookings.edu/articles/stablecoins-and-national-security-learning-the-lessons-of-eurodollars/",
+      "url_type": "Web Page",
+      "published_date": "2024-04-17",
+      "weight": 0.8
+    },
+    {
+      "url": "https://pbs.twimg.com/media/GCAQhOBaoAAqs-D?format=jpg&name=medium",
+      "url_type": "Image",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://bitcoinke.io/2022/07/latin-america-in-mastercard-new-payments-index-2022/>",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://bitcoinmagazine.com/legal/u-s-treasury-introduces-cbdc-digital-dollar-working-group",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-e-rupee-unpopular-as-central-banks-push-digital-currency/articleshow/99049236.cms?from=mdr",
+      "url_type": "Web Page",
+      "published_date": "2023-03-28",
+      "weight": 0.6
+    },
+    {
+      "url": "https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf",
+      "url_type": "PDF",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.forbes.com/sites/ninabambysheva/2022/04/13/blackrocks-newest-investment-paves-the-way-for-digital-assets-on-wall-street/?",
+      "url_type": "Web Page",
+      "published_date": "2022-04-13",
+      "weight": 0.6
+    },
+    {
+      "url": "https://twitter.com/Excellion/status/1567472488589963264",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.circle.com/en/pressroom/circle-is-first-global-stablecoin-issuer-to-comply-with-mica-eus-landmark-crypto-law",
+      "url_type": "Web Page",
+      "published_date": "2024-07-01",
+      "weight": 0.8
+    },
+    {
+      "url": "https://twitter.com/collision/status/1783559623511011535",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/collision/status/1783559623511011535}}",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://paxos.com/attestations/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://makerdao.com/en/whitepaper#abstract",
+      "url_type": "Error: HTTPConnectionPool(host='makerdao.com', port=8080): Max retries exceeded with url: /en/whitepaper/ (Caused by ReadTimeoutError(\"HTTPConnectionPool(host='makerdao.com', port=8080): Read timed out. (read timeout=10)\"))",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://thedefiant.io/tornado-impact-makerdao-dai",
+      "url_type": "Web Page",
+      "published_date": "2022-08-10",
+      "weight": 0.6
+    },
+    {
+      "url": "https://twitter.com/bantg/status/1557733094899138560",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://trueusd.com/pdf/TUSD_WhitePaper.pdf",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://real-time-attest.trustexplorer.io/truecurrencies",
+      "url_type": "Error: HTTPSConnectionPool(host='real-time-attest.trustexplorer.io', port=443): Max retries exceeded with url: /truecurrencies (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001FE7B415D10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.gemini.com/static/dollar/gemini-dollar-whitepaper.pdf",
+      "url_type": "PDF",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://assets.website-files.com/611153e7af981472d8da199c/618b02d13e938ae1f8ad1e45_Terra_White_paper.pdf",
+      "url_type": "PDF",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://mirror.xyz/damsondao.eth/OVeBrmrfcWm7uKLlA2Q4W1XTVkFU3cMKfNWhgf7mQuM",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://etherscan.io/address/0xad41bd1cf3fd753017ef5c0da8df31a3074ea1ea",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/GMCyberFoundry/Metaverse/blob/b06547bf290392d2ff02e5142dae7386d888a9de/Book/04_money.tex#L186",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://tether.to/en/whitepaper/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/8450-21",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2021-10-07/crypto-mystery-where-s-the-69-billion-backing-the-stablecoin-tether",
+      "url_type": "Web Page",
+      "published_date": "2021-10-07",
+      "weight": 0.6
+    },
+    {
+      "url": "https://tether.to/en/tether-to-launch-gbpt-tether-tokens-pegged-to-the-british-pound-sterling/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.wsj.com/articles/tether-ownership-and-company-weaknesses-revealed-in-documents-11675363340",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/paoloardoino/status/1784938950525661578",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://twitter.com/paoloardoino/status/1784938950525661578}}",
+      "url_type": "Twitter",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.brookings.edu/articles/stablecoins-and-national-security-learning-the-lessons-of-eurodollars/",
+      "url_type": "Web Page",
+      "published_date": "2024-04-17",
+      "weight": 0.8
+    }
+  ]
+}

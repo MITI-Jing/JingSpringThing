@@ -1,0 +1,17 @@
+{
+  "sha": "9fb1c8bbfb7255aa0d02b50c27b719d391d24cd9",
+  "hyperlinks": [
+    {
+      "url": "https://www.youtube.com/watch?v=vlV1vRD4jrY&t=15s}}",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arxiv.org/abs/2207.09460",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

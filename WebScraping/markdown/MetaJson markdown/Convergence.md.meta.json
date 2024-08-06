@@ -1,0 +1,23 @@
+{
+  "sha": "e76ce028e37450efa17bfbf2969dc3d0cd6bb42c",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://open.spotify.com/embed/episode/0amPjnNMWTj05AKCAqEhOC/video?utm_source=generator\"",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.theguardian.com/film/2024/feb/07/disney-fortnite-merger-epic-games-new-universe",
+        "published_date": "2024-02-07"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}

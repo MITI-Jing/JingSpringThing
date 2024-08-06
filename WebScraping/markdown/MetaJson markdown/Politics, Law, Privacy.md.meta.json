@@ -1,0 +1,287 @@
+{
+  "sha": "e76a88d5f0a616af1d9e194e19a45f732de7afbc",
+  "hyperlinks": [
+    {
+      "url": "https://coveryourtracks.eff.org/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://abrahamjuliot.github.io/creepjs/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-hidden-pregnancy-experiment",
+      "url_type": "Web Page",
+      "published_date": "2024-05-04",
+      "weight": 0.8
+    },
+    {
+      "url": "https://www.supremecourt.gov/publicinfo/year-end/2023year-endreport.pdf",
+      "url_type": "PDF",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4582745",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4582745",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4582745",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://justiceinnovation.law.stanford.edu/projects/ai-access-to-justice/",
+      "url_type": "Web Page",
+      "published_date": "2023-10-18",
+      "weight": 0.8
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4582745",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://justiceinnovation.law.stanford.edu/american-academy-event-on-ai-equitable-access-to-legal-services/",
+      "url_type": "Web Page",
+      "published_date": "2023-05-18",
+      "weight": 0.6
+    },
+    {
+      "url": "https://law.stanford.edu/margaret-hagan/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://justiceinnovation.law.stanford.edu/american-academy-event-on-ai-equitable-access-to-legal-services/",
+      "url_type": "Web Page",
+      "published_date": "2023-05-18",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.telegraph.co.uk/books/non-fiction/clearview-ai-facial-recognition-app-chilling/",
+      "url_type": "Web Page",
+      "published_date": "2023-09-27",
+      "weight": 0.8
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5clOHBo8HP8",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://themarkup.org/machine-learning/2023/11/30/he-wanted-privacy-his-college-gave-him-none",
+      "url_type": "Web Page",
+      "published_date": "2023-07-27",
+      "weight": 0.6
+    },
+    {
+      "url": "https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-ai-and-data-protection/how-should-we-assess-security-and-data-minimisation-in-ai/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://arstechnica.com/information-technology/2023/02/sci-fi-becomes-real-as-renowned-magazine-closes-submissions-due-to-ai-writers/",
+      "url_type": "Web Page",
+      "published_date": "2023-02-21",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.lesswrong.com/tag/ai",
+      "url_type": "Web Page",
+      "published_date": "2016-09-20",
+      "weight": 0.4
+    },
+    {
+      "url": "https://www.forbes.com/sites/jackkelly/2023/03/31/goldman-sachs-predicts-300-million-jobs-will-be-lost-or-degraded-by-artificial-intelligence/?sh=3af7314e782b",
+      "url_type": "Web Page",
+      "published_date": "2023-03-31",
+      "weight": 0.6
+    },
+    {
+      "url": "https://blog.medium.com/how-were-approaching-ai-generated-writing-on-medium-16ee8cb3bc89",
+      "url_type": "Medium",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane",
+      "url_type": "Web Page",
+      "published_date": "2023-03-23",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.artisana.ai/articles/eus-ai-act-stricter-rules-for-chatbots-on-the-horizon",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://techcrunch.com/2023/05/24/eu-google-ai-pact/",
+      "url_type": "Web Page",
+      "published_date": "2023-05-24",
+      "weight": 0.6
+    },
+    {
+      "url": "https://txt.cohere.com/ai-is-eating-the-world/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7072912582923173888/",
+      "url_type": "LinkedIn",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.ncsc.gov.uk/blog-post/chatgpt-and-large-language-models-whats-the-risk",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Confusion_matrix",
+      "url_type": "Wikipedia",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://iuk.ktn-uk.org/wp-content/uploads/2023/10/responsible-trustworthy-ai-report.pdf",
+      "url_type": "PDF",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/infotrix/SSLLMs---Semantic-Secuirty-for-LLM-GPTs/blob/master/GPT_Semantic_Security_Template.txt",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://sociable.co/government-and-policy/wef-global-risks-report-cyber-pandemic-erosion-trust-social-cohesion/",
+      "url_type": "Web Page",
+      "published_date": "2022-01-13",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.gov.uk/government/news/uk-sets-out-plans-to-regulate-crypto-and-protect-consumers",
+      "url_type": "Web Page",
+      "published_date": "2023-02-01",
+      "weight": 0.6
+    },
+    {
+      "url": "https://arxiv.org/abs/2303.10130",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.imf.org/en/News/Articles/2023/02/10/el-salvador-staff-concluding-statement-of-the-2023-article-iv-mission",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://ir.silvergate.com/news/news-details/2022/Silvergate-Purchases-Blockchain-Payment-Network-Assets-from-Diem/default.aspx",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/",
+      "url_type": "Web Page",
+      "published_date": "2022-04-06",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.smashingmagazine.com/printed-books/understanding-privacy/#bookTOC",
+      "url_type": "Web Page",
+      "published_date": "2022-09-05",
+      "weight": 0.6
+    },
+    {
+      "url": "https://webdevlaw.uk/2022/11/21/a-quick-hypothetical-situation-or-your-crash-introduction-to-the-real-world/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://techcrunch.com/2021/12/21/borderless-crypto-networks-wrestle-with-state-sanction-compliance/?",
+      "url_type": "Web Page",
+      "published_date": "2021-12-21",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.simpleanalytics.com/blog/norway-takes-a-stance-against-google-analytics",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.bigtechnology.com/p/social-media-is-changing-and-paid",
+      "url_type": "Web Page",
+      "published_date": "2023-03-03",
+      "weight": 0.6
+    },
+    {
+      "url": "https://www.linkedin.com/posts/activity-7062324196256735232-FfEz/?utm_source=share&utm_medium=member_desktop",
+      "url_type": "LinkedIn",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.msn.com/en-gb/news/uknews/wikipedia-could-be-taken-offline-in-the-uk/ar-AA1atf9O",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://sapienlabs.org/wp-content/uploads/2023/05/Sapien-Labs-Age-of-First-Smartphone-and-Mental-Wellbeing-Outcomes.pdf?utm_source=substack&utm_medium=email",
+      "url_type": "PDF",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://news.harvard.edu/gazette/story/2019/03/harvard-professor-says-surveillance-capitalism-is-undermining-democracy/",
+      "url_type": "Web Page",
+      "published_date": "2019-03-04",
+      "weight": 0.4
+    },
+    {
+      "url": "https://bitcoinmagazine.com/culture/how-bitcoin-can-save-political-dissidents-in-myanmar",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/QANDA_21_1683",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
+      "url_type": "Web Page",
+      "published_date": "2024-01-28",
+      "weight": 0.8
+    }
+  ]
+}

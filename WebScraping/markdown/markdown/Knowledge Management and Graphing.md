@@ -1,0 +1,67 @@
+public:: true
+
+- #Public page automatically published
+- ## Research History
+	- ![image.png](../assets/image_1703366755687_0.png)
+- ## Notion
+	- **Notion**: is a versatile paid tool that combines note-taking, task management, databases, and knowledge graphing. Notion allows users to create linked notes and true databases, making is very performant. It has a lot of GPT integration but this costs extra.
+	- {{video https://www.youtube.com/watch?v=vFNYUl1pv54}}
+	- {{video https://www.youtube.com/watch?v=WnZR7RPH8sA}}
+- ## Obsidian
+	- **Obsidian**: A markdown-based note-taking app designed for knowledge management and building a personal knowledge base. Obsidian's key feature is its ability to create a network of interlinked notes, enabling users to visualize the connections between their thoughts and information.
+- ## Others
+	- **Roam Research**: This tool is known for its bi-directional linking and its graph overview, which shows how notes are interconnected. Roam is designed to facilitate associative thought, making it easy to see connections between ideas.
+	- **Dynalist**: A list-making application that allows for infinite levels of nesting. While primarily a list-maker, it also offers features for linking between lists and items, thereby enabling some degree of knowledge graphing.
+	- **TiddlyWiki**: A unique non-linear notebook for capturing, organizing, and sharing complex information. It allows for linking between different Tiddlers (small pieces of information) to create a web of notes.
+	- **Zettelkasten Method Tools**: This method emphasizes creating a network of linked notes. Tools like Zettlr or The Archive are designed with the Zettelkasten philosophy in mind, offering features that facilitate linking between notes and creating a knowledge web.
+	- **Microsoft OneNote**: A digital notebook that provides a flexible canvas for capturing notes in various formats. It allows for some degree of linking and organizing, suitable for knowledge management.
+	- **Evernote**: Known for note-taking, it also provides features for organizing and linking notes, although it's more linear compared to tools like Obsidian or Logseq.
+- ## Logseq
+	- **Logseq**: is very similar to Obsidian, but self hosted and open source. It works on top of plain text files stored in a local system. It supports markdown and Org-mode formatting and allows for hierarchical and networked note-taking. It can be connected to it's mobile app via github.
+	- Integration to [[Large language models]] can be OpenAI or local.
+		- Compare notion, obsidian, and logseq, using a simply markdown table with coloured dots
+	- [ChatGPT Logseq Summarizer (openai.com)](https://chat.openai.com/g/g-3ooWV51Sb-logseq-summarizer)
+	-
+	- ![Screenshot 2024-01-06 120253.png](../assets/Screenshot_2024-01-06_120253_1706020225813_0.png)
+	- ![Screenshot 2024-01-18 103043.png](../assets/Screenshot_2024-01-18_103043_1706020238116_0.png)
+	- ![Screenshot 2024-01-18 102807.png](../assets/Screenshot_2024-01-18_102807_1706020247381_0.png)
+- ![image.png](../assets/image_1706089902931_0.png){:height 812, :width 910}
+- # Microsoft GraphRAG
+	- [GraphRAG: New tool for complex data discovery now on GitHub - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/) [[Update Cycle]]
+- # Building a Knowledge Assistant
+	- The goal of a knowledge assistant is to create a system that can accept a wide range of tasks, from simple direct queries to complex and ambiguous research questions. It should be capable of delivering outputs that are just as varied, from succinct answers to comprehensive research reports. This flexibility is essential as it allows the system to serve diverse user needs in a personalised manner.
+	- In practice, such a system could be used in educational environments to aid learning, in corporate settings to streamline information retrieval, and in research to handle extensive data analysis tasks. This would not only improve efficiency but also enhance the decision-making process by providing quick and accurate information.
+	- ## Challenges with Basic RAG (Retrieval-Augmented Generation)
+		- **Limitations of Basic RAG:** Traditionally, RAG systems are engineered to enhance search capabilities by integrating retrieval into the generative process. However, they often mimic advanced search engines rather than truly understanding or processing user queries.
+		- **Core Challenges:** The primary issues with basic RAG systems include:
+			- **Naive Data Processing:** Simple parsing and retrieval that fail to handle the nuances of complex data.
+			- **Complex Query Understanding:** Difficulty in interpreting and planning responses to sophisticated or poorly defined questions.
+			- **Interaction with Services:** Limited ability to integrate and interact dynamically with external databases or APIs.
+			- **Statelessness:** The lack of memory or context across sessions, which is crucial for tasks requiring continuity.
+	- ## Advancing Beyond Basic RAG
+		- **Enhanced Data Processing:** To transcend the limitations of basic RAG, there is a need for sophisticated data processing techniques. This involves advanced parsing methods that can accurately dissect and structure diverse document types, and enhanced retrieval algorithms capable of understanding and categorizing data more effectively.
+		- **Quality of Data:** The adage "garbage in, garbage out" is particularly pertinent here. High-quality, well-structured input data are vital to the output of any LLM application, influencing everything from the accuracy of responses to the system's ability to learn and adapt over time.
+		- **Data Processing Components:**
+			- **Parsing:** This is crucial for transforming raw, unstructured or semi-structured data into a clean, structured format that is easier to manipulate and understand.
+			- **Chunking:** This involves breaking down large texts into manageable pieces, which can then be more easily processed or retrieved.
+			- **Indexing:** Efficient indexing is essential for quickly locating information within a large dataset, thereby speeding up the retrieval process.
+	- ## Importance of Parsing
+		- **Role in LLM Performance:** Effective parsing is not just about extracting text; it's about preserving the structure and meaning of the original document, which includes understanding tables, graphs, and images. This reduces errors and hallucinations (incorrectly generated information), which are common in poorly parsed data.
+		- **Impact on User Experience:** By reducing errors and improving the accuracy of the retrieved information, good parsing directly enhances user trust and reliance on the knowledge assistant.
+	- ## Advanced Data and Retrieval
+		- **Direct Impact on LLMs:** Improved data processing capabilities translate directly into enhanced performance for LLM applications, enabling them to handle a wider variety of tasks more effectively and with greater accuracy.
+		- **Critical for Heterogeneous Data:** In environments where data comes in various forms, from structured databases to unstructured social media posts, robust parsing and indexing are essential for maintaining the integrity and usability of the data.
+	- ## Single Agent Query Flows
+		- **Enhancement Techniques:** Incorporating advanced agentive layers can greatly improve a system’s understanding of queries. This involves sophisticated algorithms for natural language understanding, context retention, and adaptive response generation.
+		- **Integration of Functionalities:** Key functionalities include:
+			- **Function Calling and Tool Use:** Allows the system to perform specific tasks, such as fetching data from a database or invoking a calculation tool, based on the user's query.
+			- **Conversation Memory:** Essential for maintaining context over time, which is crucial for tasks that require ongoing interaction, such as project management or continuous research.
+	- ## Multi-Agent Systems
+		- **Handling Complex Tasks:** By distributing tasks across multiple specialized agents, a system can handle more complex and diverse tasks efficiently. Each agent can focus on a specific aspect, such as data retrieval, user interaction, or problem-solving.
+		- **Reliability and Efficiency:** Specialized agents tend to perform better on tasks within their realm, reducing errors and speeding up the overall process. This can also lead to cost savings and reduced latency in responses.
+		- ### Llama Agents: Microservices Approach
+			- [The Future of Knowledge Assistants: Jerry Liu (youtube.com)](https://www.youtube.com/watch?v=zeAyuLc_f3Q)
+			- **Decentralized Agent Architecture:** Treating agents as separate microservices allows for greater scalability and flexibility. Each agent can be developed, maintained, and scaled independently, enhancing the robustness and resilience of the system.
+			- **Orchestration and Communication:** Effective communication and orchestration among these agents are key to handling complex workflows and ensuring that tasks are processed in a coherent and timely manner.
+			- #### Demonstrations and Applications
+				- **Practical Application of Microservices:** By enhancing a basic RAG pipeline with microservices, the demonstration shows how even simple systems can be scaled up and made more efficient. This approach not only allows for parallel processing but also for handling multiple tasks simultaneously, which is crucial in high-demand environments.

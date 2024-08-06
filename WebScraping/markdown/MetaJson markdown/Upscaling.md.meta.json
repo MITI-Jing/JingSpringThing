@@ -1,0 +1,53 @@
+{
+  "sha": "2e4c9a1a77f8217d81e9256f34efd03400525334",
+  "hyperlinks": [
+    {
+      "url": "https://discord.com/channels/1076117621407223829/1196177599244812468/1196177599244812468",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/kijai/ComfyUI-CCSR",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://github.com/kijai/ComfyUI-SUPIR",
+      "url_type": "GitHub",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Q9y-7Nwj2ic",
+      "url_type": "YouTube",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://www.reddit.com/r/comfyui/comments/1bh07ke/supir_v2_nodes_from_kijai_are_available_on/",
+      "url_type": "Reddit",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://medium.com/@yushantripleseven/supir-image-restoration-cd4f409ccd34#3b78",
+      "url_type": "Medium",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://openmodeldb.info/",
+      "url_type": "Web Page",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": "https://education.civitai.com/civitais-guide-to-image-upscaling/#upscaling-with-comfyui",
+      "url_type": "Web Page",
+      "published_date": "2024-01-19",
+      "weight": 0.8
+    }
+  ]
+}

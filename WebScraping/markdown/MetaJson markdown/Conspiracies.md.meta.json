@@ -1,0 +1,95 @@
+{
+  "sha": "f0e57ec73ce9769b070b96f52f07b1fb234d07cd",
+  "hyperlinks": [
+    {
+      "url": {
+        "url": "https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://pourteaux.substack.com/p/bitcoin-culture-burn-it-to-the-ground?",
+        "published_date": "2022-07-02"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.forbes.com/sites/peterizzo/2022/07/04/bitcoin-maximalism-is-dead-long-live-bitcoin-maximalism/?",
+        "published_date": "2022-07-04"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.saylor.org/about/",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://blog.lopp.net/history-of-bitcoin-maximalism/",
+        "published_date": "2023-03-25"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.affuture.org/post/9-context/",
+        "published_date": "2024-04-28"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://twitter.com/vkhosla/status/1789345720706961838?t=_vgHHgmdky1nU5X5C0SQpg&s=19",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://twitter.com/vkhosla/status/1789345720706961838?t=_vgHHgmdky1nU5X5C0SQpg&s=19}}",
+        "published_date": null
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://arstechnica.com/tech-policy/2024/04/feds-appoint-ai-doomer-to-run-us-ai-safety-institute/",
+        "published_date": "2024-04-17"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    },
+    {
+      "url": {
+        "url": "https://www.bloomberg.com/opinion/articles/2024-05-21/ai-safety-is-dead-and-chuck-schumer-faces-risks",
+        "published_date": "2024-05-21"
+      },
+      "url_type": "Error: 'dict' object has no attribute 'decode'",
+      "published_date": null,
+      "weight": 0.5
+    }
+  ]
+}
